@@ -5,4 +5,4 @@ Multi-scale Representations Fusion with Joint Multiple Reconstructions Autoencod
 
 If you find this paper is useful, please cite our paper in your research work.Thanks.
 
-If there are any questions, please do not hesitate to contact me. kai.wang@scu.edu.cn
+If there are any questions about source code, please do not hesitate to contact Hui Yu (hui_yu_1130@163.com) and me (kai.wang@scu.edu.cn).
