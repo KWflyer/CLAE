@@ -30,11 +30,11 @@ Reproduce the experimental results for CWRU dataset:
    http://csegroups.case.edu/bearingdatacenter/pages/download-data-file
    In our experiments, the used CWRU data are saved as the file "Sample_12k_Drive_End_Bearing_Fault_Data_DE.mat", which could not be uploaded due to the capacity limitation of Github. 
 2. Run the following .m files in the file "Run" to reproduce the reported results.
-   -- Multiscale_50_75_100_125_150_TrainPer01_JMRAE.m 
-   -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE.m
-   -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE_wd.m
-   -- Multiscale_50_75_100_125_150_TrainPer10_RELU.m
-   -- Multiscale_50_75_100_125_150_TrainPer10_Sigmoid.m
+         -- Multiscale_50_75_100_125_150_TrainPer01_JMRAE.m 
+         -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE.m
+         -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE_wd.m
+         -- Multiscale_50_75_100_125_150_TrainPer10_RELU.m
+         -- Multiscale_50_75_100_125_150_TrainPer10_Sigmoid.m
 3. The file "Experimental_Results" includes the experimental results of our paper.
 -----------------------------------------------------
 
@@ -43,10 +43,10 @@ Reproduce the experimental results for MFPT dataset:
    https://mfpt.org/fault-data-sets/
    In our experiments, the used MFPT data are saved to the file "MFPT.mat", which incudes the training and test sets. 
 2. Run the following .m files in the file "Run" to reproduce the reported results.
-   -- Multiscale_50_75_100_TrainPer10_JMRAE.m 
-   -- Multiscale_50_75_100_TrainPer10_JMRAE_wd.m
-   -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE_wd.m
-   -- Multiscale_50_75_100_TrainPer10_RELU.m
-   -- Multiscale_50_75_100_TrainPer10_Sigmoid.m
+         -- Multiscale_50_75_100_TrainPer10_JMRAE.m 
+         -- Multiscale_50_75_100_TrainPer10_JMRAE_wd.m
+         -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE_wd.m
+         -- Multiscale_50_75_100_TrainPer10_RELU.m
+         -- Multiscale_50_75_100_TrainPer10_Sigmoid.m
 3. The file "Experimental_Results" includes the experimental results of our paper.
 -----------------------------------------------------
