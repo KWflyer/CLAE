@@ -29,8 +29,8 @@ Reproduce the experimental results for CWRU dataset:
 1. Download the CWRU dataset from    
    http://csegroups.case.edu/bearingdatacenter/pages/download-data-file
    In our experiments, the used CWRU data are saved as the file "Sample_12k_Drive_End_Bearing_Fault_Data_DE.mat", which could not be uploaded due to the capacity limitation of Github. 
-2. Run the following .m files in the file "Run" to reproduce the reported results.
-         -- Multiscale_50_75_100_125_150_TrainPer01_JMRAE.m 
+2. Run the following .m files in the file "Run" to reproduce the reported results. <br>
+         -- Multiscale_50_75_100_125_150_TrainPer01_JMRAE.m <br>
          -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE.m
          -- Multiscale_50_75_100_125_150_TrainPer10_JMRAE_wd.m
          -- Multiscale_50_75_100_125_150_TrainPer10_RELU.m
