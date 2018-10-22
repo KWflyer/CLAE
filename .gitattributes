@@ -1,3 +1,4 @@
+*.rar linguist-language=matlab
 *.js linguist-language=phtyon
 *.css linguist-language=phtyon
 *.html linguist-language=phtyon
