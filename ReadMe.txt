@@ -1,7 +1,7 @@
 # MRFN multi-scale representations fusion network
-The source code is for the following accepted paper which will be published on IEEE SPL. 
+The source code is for the following paper which has been published on IEEE SPL.
 
-Multi-scale Representations Fusion with Joint Multiple Reconstructions Autoencoder for Intelligent Fault Diagnosis, 2018, IEEE Signal Processing Letters.
+Hui Yu, Kai Wang, Yan Li, Multi-scale Representations Fusion with Joint Multiple Reconstructions Autoencoder for Intelligent Fault Diagnosis, IEEE Signal Processing Letters, 2018, 25(12):1880-1884.
 
 If you find this paper is useful, please cite our paper in your research work.Thanks.
 
