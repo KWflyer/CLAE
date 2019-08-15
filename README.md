@@ -1,5 +1,5 @@
 # CLEA:Representation Learning with Class Level Autoencoder
-The source code is for the following paper which will be published on IEEE SPL. It will be available soon!
+The source code is for the following paper which will be available soon!
 
 Hui Yu, Kai Wang, Yan Li, Wu Zhao. Representation Learning with Class Level Autoencoder for Intelligent Fault Diagnosis, IEEE Signal Processing Letters, 2019.
 
