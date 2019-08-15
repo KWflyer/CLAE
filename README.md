@@ -25,7 +25,8 @@ Dataset used in this Paper:
 -----------------------------------------------------
 Source code:
 Reproduce the experimental results on CWRU dataset:
-1. Your can download the the source CWRU dataset from <br>    
+1. Your can download the the source CWRU dataset from  
+
    http://csegroups.case.edu/bearingdatacenter/pages/download-data-file <br>
    In our experiments, the used CWRU data are also saved as the Matlab file "Sample_multi_array.mat", which are shared at Baidu Netdisk:    https://pan.baidu.com/s/1Lo7PUV_AETrrMqhHNmr7zA, due to the capacity limitation of Github. You can freely download this data file.
 2. Run the following .m files in the file "Run" to reproduce the reported results. <br>
