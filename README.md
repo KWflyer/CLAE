@@ -35,6 +35,6 @@ Reproduce the experimental results on CWRU dataset:
          -- *.m  <br>
          -- *.m      <br>
          -- *.m   <br>
-3. The file "Experimental_Results" includes the experimental results of our paper.
------------------------------------------------------
+3. The file "Experimental_Results" includes the experimental results of our paper. 
+-------------------------------------------------------
 
