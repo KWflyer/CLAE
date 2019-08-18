@@ -27,7 +27,7 @@ Source code:
 Reproduce the experimental results on CWRU dataset:
 1. Your can download the the source CWRU dataset from  
    http://csegroups.case.edu/bearingdatacenter/pages/download-data-file <br>
-   In our experiments, the used raw CWRU data are selected and saved as the file "Sample_12k_Drive_End_Bearing_Fault_Data_DE.mat", and the used CWRU data with the additive Gaussian white noise, which are shared at **Baidu  Netdisk** (**Link:** https://pan.baidu.com/s/1nqtJupUdL3TXY5dKjjHUsg ; **Extraction Code:** kheh) due to the capacity limitation of Github. You can freely download this data file.
+   In our experiments, the used raw CWRU data are selected and saved as the file "Sample_12k_Drive_End_Bearing_Fault_Data_DE.mat", and the used CWRU data with the additive Gaussian white noise, which are shared at **Baidu  Netdisk** (<font color=#0099ff size=3>**Link:**</font> https://pan.baidu.com/s/1nqtJupUdL3TXY5dKjjHUsg ; **Extraction Code:** kheh) due to the capacity limitation of Github. You can freely download this data file.
 2. Run the following .m files in the file "Effects of Network Architectures" to reproduce the reported results in Fig.4 of our paper, and the corresponding experimental results are included in the file "Experimental_Results". <br>
          -- CLAE_Units_50_75.m     <br>
          -- CLAE_Units_50_100.m     <br>
