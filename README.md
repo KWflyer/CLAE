@@ -27,7 +27,7 @@ Source code:
 Reproduce the experimental results on CWRU dataset:
 1. Your can download the the source CWRU dataset from  
    http://csegroups.case.edu/bearingdatacenter/pages/download-data-file <br>
-   In our experiments, the used raw CWRU data are selected and saved as the file "Sample_12k_Drive_End_Bearing_Fault_Data_DE.mat", <br> and the used CWRU data with the additive Gaussian white noise, which are shared at **Baidu  Netdisk**: https://pan.baidu.com/s/1Lo7PUV_AETrrMqhHNmr7zA, due to the capacity limitation of Github. <br>
+   In our experiments, the used raw CWRU data are selected and saved as the file "Sample_12k_Drive_End_Bearing_Fault_Data_DE.mat", and the used CWRU data with the additive Gaussian white noise, which are shared at **Baidu  Netdisk**: https://pan.baidu.com/s/1Lo7PUV_AETrrMqhHNmr7zA, due to the capacity limitation of Github. <br>
    You can freely download this data file.
 2. Run the following .m files in the file "Run" to reproduce the reported results. <br>
          -- *.m     <br>
