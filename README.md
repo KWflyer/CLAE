@@ -29,12 +29,15 @@ Reproduce the experimental results on CWRU dataset:
    http://csegroups.case.edu/bearingdatacenter/pages/download-data-file <br>
    In our experiments, the used raw CWRU data are selected and saved as the file "Sample_12k_Drive_End_Bearing_Fault_Data_DE.mat", and the used CWRU data with the additive Gaussian white noise, which are shared at **Baidu  Netdisk**: https://pan.baidu.com/s/1Lo7PUV_AETrrMqhHNmr7zA, due to the capacity limitation of Github. <br>
    You can freely download this data file.
-2. Run the following .m files in the file "Run" to reproduce the reported results. <br>
-         -- *.m     <br>
-         -- *.m     <br>
-         -- *.m  <br>
-         -- *.m      <br>
-         -- *.m   <br>
-3. The file "Experimental_Results" includes the experimental results of our paper. 
+2. Run the following .m files in the file "Effects of Network Architectures" to reproduce the reported results in Fig.4 of our paper, and the corresponding experimental results are included in the file "Experimental_Results". <br>
+         -- CLAE_Units_50_75.m     <br>
+         -- CLAE_Units_50_100.m     <br>
+         -- CLAE_Units_75_100.m  <br>
+         -- CLAE_Units_75_150.m      <br>
+         -- CLAE_Units_100_100.m   <br>
+         -- CLAE_Units_100_150.m  <br>
+         -- CLAE_Units_150_150.m      <br>
+         -- CLAE_Units_150_200.m   <br>
+3. Similary, the instructions in  Step 2 above can also be applied to these documents, such as the files "Effects of OLR", "Robustness Against Noise", and "Best Results".
 -------------------------------------------------------
 
