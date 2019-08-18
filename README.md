@@ -39,5 +39,7 @@ Reproduce the experimental results on CWRU dataset:
          -- CLAE_Units_150_150.m      <br>
          -- CLAE_Units_150_200.m   <br>
 3. Similary, the instructions in  Step 2 above can also be applied to these documents, such as the files "Effects of OLR", "Robustness Against Noise", and "Best Results".
+3. Tips: The experimental results included in the above "Experimental_Results" files are re-calculated when submitting code, which may be a slight deviation from the results reported in our paper due to randomly selected training samples.
+Included experimental data may cause errors between the classification accuracy and the results reported in the article due to the effects of randomness of choosing training samples.
 -------------------------------------------------------
 
